@@ -1,0 +1,11 @@
+G:\updated services\g2-allergy-service\src\main\java\com\pms\service\impl\AllergyServiceImpl.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\controller\AllergyController.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\repository\AllergyRepository.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\service\AllergyService.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\AllergyServiceApplication.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\controller\CentralizedLogging.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\entity\CustomIdGenerator.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\exception\AllergyServiceException.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\exception\ErrorResponse.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\entity\Allergy.java
+G:\updated services\g2-allergy-service\src\main\java\com\pms\exception\GlobalExceptionHandler.java

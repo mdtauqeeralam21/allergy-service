@@ -1,0 +1,11 @@
+com\pms\repository\AllergyRepository.class
+com\pms\exception\ErrorResponse.class
+com\pms\exception\AllergyServiceException.class
+com\pms\exception\GlobalExceptionHandler.class
+com\pms\entity\CustomIdGenerator.class
+com\pms\controller\CentralizedLogging.class
+com\pms\controller\AllergyController.class
+com\pms\service\AllergyService.class
+com\pms\entity\Allergy.class
+com\pms\AllergyServiceApplication.class
+com\pms\service\impl\AllergyServiceImpl.class
